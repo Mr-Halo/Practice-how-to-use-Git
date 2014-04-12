@@ -3,4 +3,8 @@
 int main(void)
 {
   printf("This is the first time to use GitHub for testing!“)；
+  
+  /*Update for checking in*/
+  
+  printf("update");
 }
